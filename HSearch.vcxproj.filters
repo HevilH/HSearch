@@ -46,9 +46,6 @@
     <ClCompile Include="h_list.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="h_search.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="h_stack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -56,6 +53,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="h_trie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -69,13 +69,16 @@
     <ClInclude Include="h_list.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="h_search.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="h_stack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="h_string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="article.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="h_trie.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -90,18 +90,19 @@
     <QtMoc Include="HSearch.h" />
     <ClCompile Include="HSearch.cpp" />
     <ClCompile Include="h_set.cpp" />
+    <ClCompile Include="h_trie.cpp" />
     <ClCompile Include="h_unordered_map.cpp" />
     <ClCompile Include="h_list.cpp" />
-    <ClCompile Include="h_search.cpp" />
     <ClCompile Include="h_stack.cpp" />
     <ClCompile Include="h_string.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="article.h" />
     <ClInclude Include="h_set.h" />
+    <ClInclude Include="h_trie.h" />
     <ClInclude Include="h_unordered_map.h" />
     <ClInclude Include="h_list.h" />
-    <ClInclude Include="h_search.h" />
     <ClInclude Include="h_stack.h" />
     <ClInclude Include="h_string.h" />
   </ItemGroup>
